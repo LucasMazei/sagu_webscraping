@@ -1,0 +1,7 @@
+selenium
+pandas
+html5lib
+requests
+lxml
+bs4
+jupyter
