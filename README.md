@@ -54,5 +54,4 @@ $ jupyter lab
 
 ## Autor:
 
-###Lucas Mateus Mazei Sobrinho
-https://lnk.bio/oPiD
+Lucas Mateus Mazei Sobrinho - https://lnk.bio/oPiD
