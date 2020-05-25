@@ -23,6 +23,8 @@ Instale-os usando:
 $ sudo apt-get install python3 python3-pip git
 # Fedora
 $ sudo dnf install python3 python3-pip git
+# Arch
+$ sudo pacman -S python3 python3-pip git
 ```
 
 #### geckodriver
@@ -53,4 +55,4 @@ $ jupyter lab
 ## Autor:
 
     Lucas Mateus Mazei Sobrinho
-    mazei.lucas@gmail.com
+    https://lnk.bio/oPiD
